@@ -1,0 +1,6 @@
+projectKey=18RG01_1804091001
+serverUrl=http://172.17.1.41:9090/sonarqube
+serverVersion=6.7.7.38951
+dashboardUrl=http://172.17.1.41:9090/sonarqube/dashboard/index/18RG01_1804091001
+ceTaskId=AXYpEjSUcxhBmslrsD1K
+ceTaskUrl=http://172.17.1.41:9090/sonarqube/api/ce/task?id=AXYpEjSUcxhBmslrsD1K
