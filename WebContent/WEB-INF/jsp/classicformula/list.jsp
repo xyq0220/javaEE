@@ -15,7 +15,7 @@
 		<input type="text" name="name">
 		<input type="submit" value="提交">
 	</form>
-	<h2><a href="">经方表</a></h2>
+	<h2><a href="add">添加</a></h2>
 
 	<%
 		List<Classicformula> claList = (List<Classicformula>)request.getAttribute("claList");
